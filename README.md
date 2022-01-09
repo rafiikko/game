@@ -1,2 +1,2 @@
-# game
-Inseng iseng berhadiah
+# iseng iseng berhadiah
+
